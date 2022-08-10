@@ -74,7 +74,8 @@ p {
   
   .technologies {
     margin-top: -10px;
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(59, 129, 59);
+    color: white;
     width: 1210px;
     padding: 10px;
     border-radius: 0 0 7px 7px;
