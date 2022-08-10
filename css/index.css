@@ -10,6 +10,7 @@ p {
   
   .projects_blocks {
     margin-left: 20%;
+    margin-top: 50px;
   }
   
   .number {
@@ -27,6 +28,7 @@ p {
   
   .projects_blocks {
     margin-top: 17px;
+    margin-top: 50px;
   }
   
   span {
@@ -43,6 +45,7 @@ p {
   
   a {
     text-decoration: none;
+    color:blue;
   }
   
   a:hover {
@@ -68,16 +71,17 @@ p {
     background-color: rgb(255, 255, 255);
     width: 1200px;
     margin-bottom: 10px;
-    box-shadow: 0 0 2px -1px black;
+    box-shadow: 0 0 2px 0 black;
     font-size: 15px;
   }
   
   .technologies {
     margin-top: -10px;
-    background-color: rgb(129, 241, 129);
+    background-color: rgb(135, 221, 195);
     width: 1210px;
     padding: 10px;
     border-radius: 0 0 7px 7px;
+    box-shadow: 0 0 2px 0 black;
   }
 
   .red {
